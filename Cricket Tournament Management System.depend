@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620578930 source:c:\users\wickedg0d\desktop\cricket tournament management system\main.cpp
+	<vector>
+	<iostream>
+
+1623499602 source:c:\users\wickedg0d\desktop\kle tech\sem 4\oops project\cricket tournament management system\main.cpp
+	<vector>
+	<iostream>
+	<exception>
+
